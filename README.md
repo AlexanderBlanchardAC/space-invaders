@@ -1,0 +1,1 @@
+A great chance to use my vanilla js skills to create game strategy and to use canvas to include creativity. 
